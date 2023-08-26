@@ -1,0 +1,21 @@
+body {
+     background: whitesmoke;
+ }
+.font-eurostile {
+    font-family: "eurostile", sans-serif;
+}
+.font-europa {
+    font-family: "europa", sans-serif;
+}
+.ico-black {
+    color: black;
+}
+.ico-black:hover {
+    color: blueviolet;
+}
+.ico-white {
+    color: white;
+}
+.ico-white:hover {
+    color: black;
+}
